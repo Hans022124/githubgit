@@ -516,8 +516,8 @@ body {
 # Hasil
 
 
-![Remedial css](4.jpg)
+![Remedial c](satu.jpg)
 
-![Remedial css](2.jpg)
+![Remedial c](dua.jpg)
 
-![Remedial css](3.jpg)
+![Remedial c](tiga.jpg)

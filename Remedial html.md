@@ -84,7 +84,7 @@
 
 ## Hasil
 
-![remedial html](remedial1.jpg)
+![remedial h](remedial1.jpg)
 
 ## Analisis
 1. `<!DOCTYPE html>`: Mendefinisikan jenis dokumen HTML yang digunakan, dalam hal ini HTML versi terbaru.
@@ -241,7 +241,7 @@
 ```
 ## Hasil
 
-![remedial html](remedial3.jpg)
+![remedial h](remedial3.jpg)
 
 ## Analisis
 1. `<!DOCTYPE html>`: Mendefinisikan jenis dokumen HTML yang digunakan, dalam hal ini HTML versi terbaru.
@@ -428,4 +428,4 @@ Teks di antara tag <`a> dan </a`>: Teks yang akan ditampilkan sebagai hyperlink
 
 ## Hasil
 
-![remedial html](remedial2.jpg)
+![remedial h](remedial2.jpg)
